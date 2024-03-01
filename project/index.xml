@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>isprs</title>
+    <link>https://tgis-lab.github.io/project/</link>
+      <atom:link href="https://tgis-lab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>isprs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://tgis-lab.github.io/media/logo_hu3edfaaeb3d47be7d506b0a9a8d5f0cf0_57640_300x300_fit_lanczos_3.png</url>
+      <title>isprs</title>
+      <link>https://tgis-lab.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>integrating-indoorgml-with-outdoors</title>
+      <link>https://tgis-lab.github.io/project/integrating-indoorgml-with-outdoors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tgis-lab.github.io/project/integrating-indoorgml-with-outdoors/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With the fast expansion of modern cities, the complexity of urban environments has significantly increased, creating a need for assistance for seamless indoor‐outdoor navigation. To meet this need, a number of standards and methods have emerged. Among them, IndoorGML is a well‐developed standard with the focus on indoor location‐based services. This standard has already been accepted by the Open Geospatial Consortium (OGC) and is now under active development. Although some mechanisms in IndoorGML have been defined to enable integration of indoor and outdoor networks, there are still no concrete guidelines for determination of indoor‐outdoor connections. It also lacks solid scientific foundations and efficient tools to extract the connecting nodes and edges that link indoor and outdoor spaces. To address this gap, in this scientific initiative we focus on connection of indoor and outdoor spaces and aim to provide a tool to automatically construct navigation graphs of the indoor‐outdoor transitional space to support seamless integration of indoor‐outdoor navigation. We expect that the developments from this project will benefit the IndoorGML ecosystem and greatly advance the capability of IndoorGML in representing navigable space and in supporting location-based services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objectives:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this scientific initiative, we focus on modeling of indoor-outdoor transitional space, and aim to develop a tool which can automatically construct navigation graphs for indoor-outdoor transitional space to seamlessly link the outdoor road networks (from OpenStreetMap) and indoor networks (from IndoorGML). To this end, we will address the following two research objectives:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research objective 1&lt;/strong&gt;: Development of voxel models for indoor-outdoor transitional space. We will explore the use of voxel‐based modelling to capture the space between indoor and outdoor environments (e.g., parking slots, stairs, and sidewalks). Voxels will be enriched with semantics and segmented to distinguish between navigable space and non-navigable space.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research objective 2:&lt;/strong&gt; Development of a tool for automatic routing graph generation for indoor-outdoor transitional space. The intended tool will: 1) generate voxel models from point clouds of building entrances and their surrounding environments; (2) identify navigable space and perform space division based on the characteristics of agents (e.g., pedestrians, wheelchairs, and vehicles); 3) build navigation graphs that link OpenStreetMap road networks and IndoorGML networks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborating Team&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PI Zhiyong Wang&lt;/strong&gt; (ISPRS WG IV/8), South China University of Technology, &lt;a href=&#34;mailto:zwang1984@scut.edu.cn&#34;&gt;zwang1984@scut.edu.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Co-PI&lt;/p&gt;
+&lt;p&gt;Mir Abolfazl Mostafavi (ISPRS WG IV/8), Université Laval, &lt;a href=&#34;mailto:Mir-Abolfazl.Mostafavi@scg.ulaval.ca&#34;&gt;Mir-Abolfazl.Mostafavi@scg.ulaval.ca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kourosh Khoshelham (ISPRS ICWG II/Ib), University of Melbourne, &lt;a href=&#34;mailto:k.khoshelham@unimelb.edu.au&#34;&gt;k.khoshelham@unimelb.edu.au&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lucía Díaz Vilariño (ISPRS WG IV/9), Universidade de Vigo, &lt;a href=&#34;mailto:lucia@uvigo.es&#34;&gt;lucia@uvigo.es&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sisi Zlatanova (ISPRS TC IV, OGC IndoorGML), UNSW, &lt;a href=&#34;mailto:s.zlatanova@unsw.edu.au&#34;&gt;s.zlatanova@unsw.edu.au&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ki-Joune Li (OGC IndoorGML), Pusan National University, &lt;a href=&#34;mailto:lik@pnu.edu&#34;&gt;lik@pnu.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Publications:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., &amp;amp; Li, K. J. (2023). Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation. &lt;em&gt;ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;, 487-492.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://tgis-lab.github.io/project_image/isprs.png&#34; alt=&#34;featured.png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vitality Data Center</title>
+      <link>https://tgis-lab.github.io/project/vdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tgis-lab.github.io/project/vdc/</guid>
+      <description>&lt;p&gt;The Vitality Data Center (VDC) project is a joint project between Utrecht University and Eindhoven University of Technology and part of Vitality Academy (&lt;a href=&#34;https://vitalityacademy.eu/about/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vitalityacademy.eu/about/)&lt;/a&gt;. The VDC project addresses vitality and public health related issues, and aims at 1. developing a data platform that can facilitate various vitality-related ‘living lab’ projects; 2. investigating the relationship between physical activities and built environments (such as green spaces and street networks). The developments from the project can be found in the Github repository, &lt;a href=&#34;https://github.com/vitality-data-center&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/vitality-data-center&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related publications:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Zhang, S., Wang, Z., Helbich, M., &amp;amp; Ettema, D. (2023). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Assessing runners’ exposure to natural and built environments in the Netherlands: A descriptive assessment based on GPS tracking.&lt;/a&gt; &lt;em&gt;International Journal of Environmental Health Research&lt;/em&gt;, 1-20.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang, Z., Ettema, D., &amp;amp; Helbich, M. (2023). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Age as effect modifier of the associations between the physical environment and adults&amp;rsquo; neighborhood walking in the Netherlands.&lt;/a&gt; &lt;em&gt;Cities&lt;/em&gt;, &lt;em&gt;135&lt;/em&gt;, 104194.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lam, T. M., Wang, Z., Vaartjes, I., Karssenberg, D., Ettema, D., Helbich, M., &amp;hellip; &amp;amp; Lakerveld, J. (2022). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development of an objectively measured walkability index for the Netherlands.&lt;/a&gt; &lt;em&gt;International Journal of Behavioral Nutrition and Physical Activity&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(1), 50.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lam, T. M., Wang, Z., Vaartjes, I., Karssenberg, D., Helbich, M., Timmermans, E. J., &amp;hellip; &amp;amp; Lakerveld, J. (2021, August). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development and validation of a nationwide walkability index for the Netherlands using transport survey data.&lt;/a&gt; In &lt;em&gt;ISEE Conference Abstracts&lt;/em&gt; (Vol. 2021, No. 1).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang, Z., Ettema, D., &amp;amp; Helbich, M. (2021). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Objective environmental exposures correlate differently with recreational and transportation walking: A cross-sectional national study in the Netherlands.&lt;/a&gt; &lt;em&gt;Environmental research&lt;/em&gt;, &lt;em&gt;194&lt;/em&gt;, 110591.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang, Z., &amp;amp; Zlatanova, S. (2019). &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8672100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Safe route determination for first responders in the presence of moving obstacles.&lt;/a&gt; IEEE transactions on intelligent transportation systems, 21(3), 1044-1053.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://tgis-lab.github.io/project_image/isprs.png&#34; alt=&#34;featured.png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

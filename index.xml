@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home | isprs</title>
+    <link>https://tgis-lab.github.io/</link>
+      <atom:link href="https://tgis-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Home</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tgis-lab.github.io/media/logo_hu3edfaaeb3d47be7d506b0a9a8d5f0cf0_57640_300x300_fit_lanczos_3.png</url>
+      <title>Home</title>
+      <link>https://tgis-lab.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Please contact us with your question, and we will reply as soon as possible.</title>
+      <link>https://tgis-lab.github.io/contact/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tgis-lab.github.io/contact/</guid>
+      <description>&lt;style&gt;
+
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+h1 {
+    font-size: 1.5em; /* 调整标题字体大小为 1.5 倍默认大小 */
+        text-align: center;
+  }
+  .content {
+    
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    max-width: 1200px;
+  
+    margin: 0 auto;
+  }
+
+  .content &gt; div {
+    flex-grow: 1;
+    margin-right: 127px;
+    flex-direction: column;
+     align-items: center;
+  }
+
+  .content img {
+    width: 100%;
+    max-width: 256px;
+    margin: 0 auto;
+    border-radius: 0;
+    
+  }
+
+  .content &gt; div:last-child {
+    flex-basis: 100%;
+  }
+  .author{
+    width: 100%;
+    height: 100%;
+  }
+  .ProIntroduce{
+    margin-right:0%
+  }
+  h6{
+    style=&#34;font-size: 14px;&#34;
+     margin-top:-3px;
+  }
+    /* 添加媒体查询，定义小屏幕样式 */
+  @media only screen and (max-width: 600px) {
+    p{
+      font-size:9px
+    }
+  .content {
+    display: flex;
+    flex-direction: column; /* 在小屏幕上垂直排列 */
+    align-items: center;
+    padding: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-left:13%
+  }
+
+   .content &gt; div {
+    flex-grow: 1;
+    margin-bottom: 10px; /* 在小屏幕上增加间距 */
+    flex-direction: column;
+    align-items: center;
+  }
+  }
+&lt;/style&gt;
+&lt;!-- &lt;div class=&#34;content&#34;&gt;
+&lt;div class=&#34;author&#34; style=&#34;display: flex; flex-direction: column; align-items: center;&#34;&gt;
+  &lt;img src=&#34;Dr.ZhiyongWang.png&#34; alt=&#34;左图&#34;&gt;
+  &lt;h4 id=&#34;nH4&#34;&gt;Dr. Zhiyong Wang&lt;/h4&gt;
+  &lt;p&gt;School of Civil Engineering and Transportation&lt;/p&gt;
+  &lt;p&gt;South China University of Technology&lt;/p&gt;
+&lt;/div&gt;
+  &lt;div class=&#34;ProIntroduce&#34;&gt;
+     &lt;h4&gt;Biography&lt;/h4&gt;
+    &lt;p style=&#34;text-align: justify; width:127%&#34;&gt;I am an asssociate professor in the Department of transportation at the South China University of Technology. Before this, I was a postdoc with the Department of human geography and spatial planning at the Utrecht Universit and a postdoc in the GIScience research group at the Heidelberg University, Germany. I hold a PhD degree from the Delft University of Technology, in the Netherlands (graduated on 9 June 2015). My PhD research topic was “Navigation for first responders”, which was supervised by prof.dr. S. Zlatanova and Prof. dr. ir. P.J.M. van Oosterom. My fields of expertise include geomatics (spatial data modeling, processing, management and analysis), artificial intelligence (e.g., multi-agent system, machine learning), path planning, and optimization algorithms, etc. All of my publications can be found in Google Scholar and ResearchGate. I am also the secretary of ISPRS WG IV/8 Digital Twins for Mobility and Navigation.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt; --&gt;
+&lt;div style=&#34;background-color: #f4f4f4; padding: 20px; text-align: center; display: flex; align-items: center; justify-content: center;&#34;&gt;
+  &lt;div style=&#34;flex: 1; text-align: left;&#34;&gt;
+    &lt;h2&gt;Contact Us&lt;/h2&gt;
+    &lt;div style=&#34;margin-top: 15px;&#34;&gt;
+      &lt;p&gt;Email: &lt;a style=&#34;color: #007bff; text-decoration: none;&#34; href=&#34;mailto:zwang1984@scut.edu.cn&#34;&gt;zwang1984@scut.edu.cn&lt;/a&gt;&lt;/p&gt;
+ &lt;p&gt;Location: Wushan RD NO. 381, Guangzhou, Guangdong&lt;/p&gt;
+      &lt;p&gt;土木与交通学院，交通运输工程系&lt;/p&gt;
+      &lt;p&gt;华南理工大学， 广州市天河区五山路381号，邮编：510641&lt;/p&gt;
+      &lt;p&gt;Department of Transportation&lt;/p&gt;
+      &lt;p&gt;School of Civil Engineering and Transportation&lt;/p&gt;
+      &lt;p&gt;South China University of Technology&lt;/p&gt;
+      &lt;p&gt;Address: Jiaotong Building, Wushan RD NO. 381., TianHe District, Guangzhou, P.R.China, 510641&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1; text-align: center;&#34;&gt;
+    &lt;iframe width=&#34;425&#34; height=&#34;350&#34; src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=113.3360230922699%2C23.14835092336319%2C113.34266424179077%2C23.151778987296645&amp;amp;layer=mapnik&amp;amp;marker=23.15006256815578%2C113.33934366703033&#34; style=&#34;border: 1px solid black&#34;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tgis-lab.github.io/publications/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tgis-lab.github.io/publications/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;style&gt;
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            max-width: 100%;
+            width: 100%;
+            display: flex;
+            flex-direction: column; /* 纵向排列 */
+        }
+        .category {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px; /* 间距 */
+        }
+        .category-header {
+            padding: 10px;
+            text-align: center;
+        }
+        .paper {
+            padding: 20px;
+            background-color: #f4f4f4; /* 背景色 */
+            margin-bottom: 10px; /* 间距 */
+        }
+.paper a:hover {
+    text-decoration: none;
+    background-color: #e0e0e0;
+    color: darkgrey; /* 悬停时更改颜色 */
+}
+        .publication-date {
+            margin-top: 10px; /* 日期与标题之间的间距 */
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;container&#34;&gt;
+    &lt;div class=&#34;category&#34;&gt;
+        &lt;div class=&#34;category-header&#34;&gt;
+            &lt;h2&gt;Journal Papers&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+        &lt;p class=&#34;nowrap&#34;&gt;Wang, Z., Ettema, D., &amp; Helbich, M. (2023). &lt;a href=&#34;https://doi.org/10.1016/j.cities.2023.104194&#34;&gt;Age as effect modifier of the associations between the physical environment and adults&#39; neighborhood walking in the Netherlands&lt;/a&gt;.Cities, 135, 104194.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., Ettema, D., &amp; Helbich, M. (2021). &lt;a href=&#34;https://doi.org/10.1111/tgis.12664&#34;&gt; Room semantics inference using random forest and relational graph convolutional networks: A case study of research building. &lt;/a&gt;Transactions in GIS, 25(1), 71-111.&lt;/p&gt;
+        &lt;/div&gt;
+          &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Hu, X., Fan, H., Noskov, A., Wang, Z., Zipf, A., Gu, F., &amp; Shang, J. (2021).  &lt;a href=&#34;https://doi.org/10.1016/j.envres.2020.110591&#34;&gt;Objective environmental exposures correlate differently with recreational and transportation walking: A cross-sectional national study in the Netherlands.&lt;/a&gt;Environmental research, 194, 110591.&lt;/p&gt;
+        &lt;/div&gt;
+         &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Yan, Y., Chen, J., and Wang, Z. (2020). &lt;a href=&#34;https://doi.org/10.1016/j.apgeog.2020.102306 &#34;&gt; Mining public sentiments and perspectives from geotagged social media data for appraising the post-earthquake recovery of tourism destinations.&lt;/a&gt;Applied Geography, 123, 102306.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., &amp; Huang, W. (2020).&lt;a href=&#34;https://doi.org/10.1109/ACCESS.2020.3037531&#34;&gt;A Social Media Based Approach for Route Planning During Urban Events.&lt;/a&gt;IEEE access, 8, 207589-207598.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., Novack, T., Yan, Y., &amp; Zipf, A. (2020).&lt;a href=&#34;https://doi.org/10.1109/TITS.2020.3004660&#34;&gt;Quiet Route Planning for Pedestrians in Traffic Noise Polluted Environments.&lt;/a&gt;IEEE Transactions on Intelligent Transportation Systems, 22(12), 7573-7584.&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2020/7/13&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., &amp; Zlatanova, S. (2019). &lt;a href=&#34;https://doi.org/10.1109/TITS.2019.2900858&#34;&gt;Safe route determination for first responders in the presence of moving obstacles.&lt;/a&gt; IEEE transactions on intelligent transportation systems, 21(3), 1044-1053.&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2019/3/20&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., &amp; Niu, L. (2018).&lt;a href=&#34;https://doi.org/10.3390/s18072100&#34;&gt;A Data Model for Using OpenStreetMap to Integrate Indoor and Outdoor Route Planning.&lt;/a&gt;Sensors, 18(7), 2100.&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2018/6/30&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+         &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Novack, T., Wang, Z., and Zipf, A. (2018).&lt;a href=&#34;https://doi.org/10.3390/s18113794&#34;&gt;A system for generating customized pleasant pedestrian routes based on OpenStreetMap data.&lt;/a&gt;Sensors, 18(11).&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2018/6/30&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., Steenbruggen, J., &amp; Zlatanova, S. (2017).&lt;a href=&#34;https://doi.org/10.3390/ijgi6030086&#34;&gt;Integration of Traffic Information into the Path Planning among Moving Obstacles&lt;/a&gt;ISPRS International Journal of Geo-Information, 6(3), 86.&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2017/3/16&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., Zlatanova, S., &amp; van Oosterom, P. (2017). &lt;a href=&#34;https://doi.org/10.1109/TITS.2016.2634079&#34;&gt;Path Planning for First Responders in the Presence of Moving Obstacles With Uncertain Boundaries.&lt;/a&gt;IEEE Transactions on Intelligent Transportation Systems, 18(8), 2163-2173.&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2017/1/2&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., &amp; Zlatanova, S. (2016).&lt;a href=&#34;https://doi.org/10.1016/j.compenvurbsys.2015.11.001&#34;&gt;Multi-agent based path planning for first responders among moving obstacles.&lt;/a&gt;Computers, Environment and Urban Systems, 56, 48-58.
+&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2016/3/1&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Wang, Z., Zlatanova, S., Moreno, A., Van Oosterom, P., &amp; Toro, C. (2014).&lt;a href=&#34;https://doi.org/10.1016/j.cageo.2014.03.013&#34;&gt;A data model for route planning in the case of forest fires.&lt;/a&gt; Computers &amp; Geosciences, 68, 1-10.&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2014/7/1&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 期刊论文信息 --&gt;
+            &lt;p&gt;Niu L., Wang Z., Song Y.&lt;a href=&#34;https://doi.org/10.3390/ijgi10050331 &#34;&gt;“An Approach to Robustness Analysis of 3D Indoor Networks for Emergency Evacuation”.&lt;/a&gt; ISPRS International Journal of Geo-Information.&lt;/p&gt;
+            &lt;!-- &lt;p&gt;Publication Date: 2014/7/1&lt;/p&gt; --&gt;
+        &lt;/div&gt;
+&lt;!-- ------------------------------------------------Conference---------------------------------------- --&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;category&#34;&gt;
+        &lt;div class=&#34;category-header&#34;&gt;
+            &lt;h2&gt;Conference Papers&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;!-- ----- --&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 会议论文信息 --&gt;
+        &lt;p&gt;Ren, X., Wang, Z., Nast, C., Ettema, D., and Brombacher, A. (2019).
+        &lt;a href=&#34;https://doi.org/10.1145/3357729.3357747&#34;&gt;Integrating Industrial Design and Geoscience: A Survey on Data-Driven Research to Promote Public Health and Vitality.&lt;/a&gt;
+        In Proceedings of the 9th International Conference on Digital Public Health (pp. 91-95).
+    &lt;/p&gt;
+     &lt;!-- ----- --&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 期刊论文信息 --&gt;
+    &lt;p&gt;Fadli, F., Kutty, N., Wang, Z., Zlatanova, S., Mahdjoubi, L., Boguslawski, P., and Zverovich, V. (2018).
+        &lt;a href=&#34;https://doi.org/10.5194/isprs-archives-XLII-4-161-2018&#34;&gt;Extending indoor open street mapping environments to navigable 3D citygml building models: Emergency response assessment.&lt;/a&gt;
+        International Archives of the Photogrammetry, Remote Sensing &amp; Spatial Information Sciences, 42(4), 161-168.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 期刊论文信息 --&gt;
+    &lt;p&gt;Wang, Z., and Zipf, A. (2017).
+        &lt;a href=&#34;https://doi.org/10.5194/isprs-annals-IV-2-W4-411-2017&#34;&gt;Using Openstreetmap Data to Generate Building Models with Their Inner Structures for 3D Maps.&lt;/a&gt;
+        ISPRS Annals of Photogrammetry, Remote Sensing &amp; Spatial Information Sciences, 4, 411-416.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 期刊论文信息 --&gt;
+    &lt;p&gt;Wang, Z., Zlatanova, S., and Steenbruggen, J. (2016).
+        &lt;a href=&#34;https://doi.org/10.5194/isprs-annals-IV-4-W1-45-2016&#34;&gt;Traffic incident management in the presence of hazards.&lt;/a&gt;
+        ISPRS Annals of Photogrammetry, Remote Sensing &amp; Spatial Information Sciences, 3(4), 45-49.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 书籍章节信息 --&gt;
+    &lt;p&gt;Wang, Z. and Zlatanova, S. (2013).
+        &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-642-33218-0_2&#34;&gt;An A*-based search approach for navigation among moving obstacles.&lt;/a&gt;
+        In Intelligent systems for crisis management, pages 17-30. Springer.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 会议论文信息 --&gt;
+    &lt;p&gt;Wang, Z., and Zlatanova, S. (2013).
+        &lt;a href=&#34;https://doi.org/10.1145/2533828.2533841&#34;&gt;Multi-agent infrastructure assisting navigation for first responders.&lt;/a&gt;
+        In Proceedings of the Sixth ACM SIGSPATIAL International Workshop on Computational Transportation Science (pp. 1-6).
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 书籍章节信息 --&gt;
+    &lt;p&gt;Wang, Z. and Zlatanova, S. (2013).
+        &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-642-34203-5_17&#34;&gt;Taxonomy of navigation for first responders.&lt;/a&gt;
+        In Progress in Location-Based Services, pages 297-315. Springer.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 会议论文信息 --&gt;
+    &lt;p&gt;Wang, Z., Xu, W., Yang, J., and Peng, J. (2009).
+        &lt;a href=&#34;https://doi.org/10.1109/ICIECS.2009.5365328&#34;&gt;A game theoretic approach for resource allocation based on ant colony optimization in emergency management.&lt;/a&gt;
+        In Information Engineering and Computer Science, 2009. ICIECS 2009. International Conference on (pp. 1-4).
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 书籍章节信息 --&gt;
+    &lt;p&gt;Van Riemsdijk, M. B., Jonker, C. M., Rens, T., and Wang, Z. (2012).
+        &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-642-30732-4_8&#34;&gt;Negotiation game for improving decision making in self-managing teams.&lt;/a&gt;
+        In Modern Advances in Intelligent Systems and Tools, pages 63-68. Springer.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 会议论文信息 --&gt;
+    &lt;p&gt;Rens, T., Jonker, C., Riemsdijk, M., and Wang, Z. (2011).
+        &lt;a href=&#34;https://cdn.aaai.org/ocs/4159/4159-17691-1-PB.pdf&#34;&gt;A Multi-Party Negotiation Game for Improving Crisis Management Decision Making.&lt;/a&gt;
+        In AAAI Fall Symposium: Robot-Human Teamwork in Dynamic Adverse Environment.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 期刊论文信息 --&gt;
+    &lt;p&gt;Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., and Li, K.-J. (2023).
+        &lt;a href=&#34;https://doi.org/10.5194/isprs-annals-X-1-W1-2023-487-2023&#34;&gt;AUTOMATIC GENERATION OF ROUTING GRAPHS FOR INDOOR-OUTDOOR TRANSITIONAL SPACE TO SUPPORT SEAMLESS NAVIGATION.&lt;/a&gt;
+        ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., X-1/W1-2023, 487–492, 2023.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 期刊论文信息 --&gt;
+    &lt;p&gt;张杰, 王志勇, 许维胜, &amp; 杨继君. (2011).
+        &lt;a href=&#34;https://www.cqvip.com/qk/91690x/201131/39759009.html&#34;&gt;面向突发事件的应急资源调度模型的构建和求解 [J].&lt;/a&gt;
+        计算机工程与应用, 47(31), 220-223.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 期刊论文信息 --&gt;
+    &lt;p&gt;张杰, 王志勇, 许维胜, &amp; 熊丹. (2011).
+        &lt;a href=&#34;https://www.cqvip.com/qk/93231x/201104/37266407.html&#34;&gt;突发事件下应急救援路径选择模型的构建和求解.&lt;/a&gt;
+        计算机应用研究, 28(4).
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paper&#34;&gt;
+    &lt;!-- 期刊论文信息 --&gt;
+    &lt;p&gt;王志勇, 韩旭, 许维胜, &amp; 杨继君. (2010).
+        &lt;a href=&#34;https://www.cqvip.com/qk/71135x/201107/34625360.html&#34;&gt;基于改进蚁群算法的纳什均衡求解.&lt;/a&gt;
+        计算机工程, 36(14).
+    &lt;/p&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;category&#34;&gt;
+        &lt;div class=&#34;category-header&#34;&gt;
+            &lt;h2&gt;Other Publications&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;paper&#34;&gt;
+            &lt;!-- 其他论文信息 --&gt;
+           &lt;p&gt;Wang, Z.&lt;a href=&#34;https://doi.org/10.7480/abe.2015.4.887&#34;&gt;Path planning for first responders in the presence of moving obstacles. &lt;/a&gt; ISBN:  9789461864772, TU DelftWang&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;!-- 其他论文... --&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tgis-lab.github.io/team/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tgis-lab.github.io/team/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+   &lt;style&gt;
+        body, html {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        .teamBox {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(calc(25% - 22.5px), 1fr)); /* 每行四个成员，自适应宽度 */
+            gap: 22.5px;
+            padding: 20px;
+            background: linear-gradient(to right, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)); /* 背景色 */
+            border-radius: 10px;
+        }
+        .teamMember {
+            text-align: center;
+            position: relative;
+            height: 100%; /* 让每个成员容器占满高度 */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 20px;
+            box-sizing: border-box;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .teamMember img {
+            width: 65%;
+            height: auto;
+            border-radius: 50%;
+            margin-bottom: 15px;
+        }
+        .teamMember .text-container {
+            overflow-y: auto;
+        }
+        .teamMember strong {
+            display: block;
+            margin-bottom: 10px;
+        }
+    &lt;/style&gt;
+    &lt;title&gt;Team Members&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;teamBox&#34;&gt;
+    &lt;!-- 按照这个模板 --&gt;
+    &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/wangzhiyong.jpg&#34; alt=&#34;wangzhiyong&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Dr. Zhiyong Wang&lt;/strong&gt;
+            &lt;strong&gt;Associate Professor&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Multi agent systems; 3D spatial modeling; Path planning; Built environment
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- 按照这个模板 --&gt;
+ &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/zhangyueying.png&#34; alt=&#34;Yueying Zhang&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Yueying Zhang&lt;/strong&gt;
+            &lt;strong&gt;PhD candidate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Traffic noise modeling; Optimization method
+        &lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/linZhaoYu.jpg&#34; alt=&#34;linZhaoYu&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Zhaoyu Lin&lt;/strong&gt;
+            &lt;strong&gt;Postgraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Path planning; 3D spatial modeling
+        &lt;/div&gt;
+    &lt;/div&gt;
+      &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/huangRunZe.jpg&#34; alt=&#34;huangRunZe&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Runze Huang&lt;/strong&gt;
+            &lt;strong&gt;Postgraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Travel and health; Travel data analysis
+        &lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/yangJinYan.jpg&#34; alt=&#34;yangJinYan&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Jinyan Yang&lt;/strong&gt;
+            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; shared e-bike and built environment
+        &lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&#34;teamMember&#34;&gt; 
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/kongSiKai.jpg&#34; alt=&#34;kongSiKai&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Sikai Kong&lt;/strong&gt;
+            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Traffic monitoring based on computer vision
+        &lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/xiangZiWei.jpg&#34; alt=&#34;xiangZiWei&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Ziwei Xiang&lt;/strong&gt;
+            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt;  Analysis of the causes of traffic accidents; Path planning; IndoorGML
+        &lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/gongTaiLin.jpg&#34; alt=&#34;gongTaiLin&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Tailin Gong&lt;/strong&gt;
+            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Simultaneous Localization and Mapping, path planning
+        &lt;/div&gt;
+    &lt;/div&gt;
+      &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/chenNianRu.jpg&#34; alt=&#34;chenNianRu&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Nianru Chen&lt;/strong&gt;
+            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Indoor and outdoor integrated navigation
+        &lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/wangYiPing.jpg&#34; alt=&#34;wangYiPing&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Yiping Wang&lt;/strong&gt;
+            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt;  UVA path planning
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>integrating-indoorgml-with-outdoors</title>
+      <link>https://tgis-lab.github.io/project/integrating-indoorgml-with-outdoors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tgis-lab.github.io/project/integrating-indoorgml-with-outdoors/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With the fast expansion of modern cities, the complexity of urban environments has significantly increased, creating a need for assistance for seamless indoor‐outdoor navigation. To meet this need, a number of standards and methods have emerged. Among them, IndoorGML is a well‐developed standard with the focus on indoor location‐based services. This standard has already been accepted by the Open Geospatial Consortium (OGC) and is now under active development. Although some mechanisms in IndoorGML have been defined to enable integration of indoor and outdoor networks, there are still no concrete guidelines for determination of indoor‐outdoor connections. It also lacks solid scientific foundations and efficient tools to extract the connecting nodes and edges that link indoor and outdoor spaces. To address this gap, in this scientific initiative we focus on connection of indoor and outdoor spaces and aim to provide a tool to automatically construct navigation graphs of the indoor‐outdoor transitional space to support seamless integration of indoor‐outdoor navigation. We expect that the developments from this project will benefit the IndoorGML ecosystem and greatly advance the capability of IndoorGML in representing navigable space and in supporting location-based services.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objectives:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this scientific initiative, we focus on modeling of indoor-outdoor transitional space, and aim to develop a tool which can automatically construct navigation graphs for indoor-outdoor transitional space to seamlessly link the outdoor road networks (from OpenStreetMap) and indoor networks (from IndoorGML). To this end, we will address the following two research objectives:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research objective 1&lt;/strong&gt;: Development of voxel models for indoor-outdoor transitional space. We will explore the use of voxel‐based modelling to capture the space between indoor and outdoor environments (e.g., parking slots, stairs, and sidewalks). Voxels will be enriched with semantics and segmented to distinguish between navigable space and non-navigable space.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research objective 2:&lt;/strong&gt; Development of a tool for automatic routing graph generation for indoor-outdoor transitional space. The intended tool will: 1) generate voxel models from point clouds of building entrances and their surrounding environments; (2) identify navigable space and perform space division based on the characteristics of agents (e.g., pedestrians, wheelchairs, and vehicles); 3) build navigation graphs that link OpenStreetMap road networks and IndoorGML networks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborating Team&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PI Zhiyong Wang&lt;/strong&gt; (ISPRS WG IV/8), South China University of Technology, &lt;a href=&#34;mailto:zwang1984@scut.edu.cn&#34;&gt;zwang1984@scut.edu.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Co-PI&lt;/p&gt;
+&lt;p&gt;Mir Abolfazl Mostafavi (ISPRS WG IV/8), Université Laval, &lt;a href=&#34;mailto:Mir-Abolfazl.Mostafavi@scg.ulaval.ca&#34;&gt;Mir-Abolfazl.Mostafavi@scg.ulaval.ca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kourosh Khoshelham (ISPRS ICWG II/Ib), University of Melbourne, &lt;a href=&#34;mailto:k.khoshelham@unimelb.edu.au&#34;&gt;k.khoshelham@unimelb.edu.au&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lucía Díaz Vilariño (ISPRS WG IV/9), Universidade de Vigo, &lt;a href=&#34;mailto:lucia@uvigo.es&#34;&gt;lucia@uvigo.es&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sisi Zlatanova (ISPRS TC IV, OGC IndoorGML), UNSW, &lt;a href=&#34;mailto:s.zlatanova@unsw.edu.au&#34;&gt;s.zlatanova@unsw.edu.au&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ki-Joune Li (OGC IndoorGML), Pusan National University, &lt;a href=&#34;mailto:lik@pnu.edu&#34;&gt;lik@pnu.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Publications:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., &amp;amp; Li, K. J. (2023). Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation. &lt;em&gt;ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;, 487-492.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://tgis-lab.github.io/project_image/isprs.png&#34; alt=&#34;featured.png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vitality Data Center</title>
+      <link>https://tgis-lab.github.io/project/vdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tgis-lab.github.io/project/vdc/</guid>
+      <description>&lt;p&gt;The Vitality Data Center (VDC) project is a joint project between Utrecht University and Eindhoven University of Technology and part of Vitality Academy (&lt;a href=&#34;https://vitalityacademy.eu/about/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vitalityacademy.eu/about/)&lt;/a&gt;. The VDC project addresses vitality and public health related issues, and aims at 1. developing a data platform that can facilitate various vitality-related ‘living lab’ projects; 2. investigating the relationship between physical activities and built environments (such as green spaces and street networks). The developments from the project can be found in the Github repository, &lt;a href=&#34;https://github.com/vitality-data-center&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/vitality-data-center&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related publications:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Zhang, S., Wang, Z., Helbich, M., &amp;amp; Ettema, D. (2023). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Assessing runners’ exposure to natural and built environments in the Netherlands: A descriptive assessment based on GPS tracking.&lt;/a&gt; &lt;em&gt;International Journal of Environmental Health Research&lt;/em&gt;, 1-20.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang, Z., Ettema, D., &amp;amp; Helbich, M. (2023). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Age as effect modifier of the associations between the physical environment and adults&amp;rsquo; neighborhood walking in the Netherlands.&lt;/a&gt; &lt;em&gt;Cities&lt;/em&gt;, &lt;em&gt;135&lt;/em&gt;, 104194.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lam, T. M., Wang, Z., Vaartjes, I., Karssenberg, D., Ettema, D., Helbich, M., &amp;hellip; &amp;amp; Lakerveld, J. (2022). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development of an objectively measured walkability index for the Netherlands.&lt;/a&gt; &lt;em&gt;International Journal of Behavioral Nutrition and Physical Activity&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(1), 50.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lam, T. M., Wang, Z., Vaartjes, I., Karssenberg, D., Helbich, M., Timmermans, E. J., &amp;hellip; &amp;amp; Lakerveld, J. (2021, August). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Development and validation of a nationwide walkability index for the Netherlands using transport survey data.&lt;/a&gt; In &lt;em&gt;ISEE Conference Abstracts&lt;/em&gt; (Vol. 2021, No. 1).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang, Z., Ettema, D., &amp;amp; Helbich, M. (2021). &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/09603123.2023.2212890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Objective environmental exposures correlate differently with recreational and transportation walking: A cross-sectional national study in the Netherlands.&lt;/a&gt; &lt;em&gt;Environmental research&lt;/em&gt;, &lt;em&gt;194&lt;/em&gt;, 110591.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang, Z., &amp;amp; Zlatanova, S. (2019). &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8672100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Safe route determination for first responders in the presence of moving obstacles.&lt;/a&gt; IEEE transactions on intelligent transportation systems, 21(3), 1044-1053.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://tgis-lab.github.io/project_image/isprs.png&#34; alt=&#34;featured.png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
