@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Please contact us with your question, and we will reply as soon as possible.</title>
+      <title>Please contact us if you have any questions, and we will reply to them as soon as possible.</title>
       <link>https://tgis-lab.github.io/contact/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tgis-lab.github.io/contact/</guid>
@@ -512,16 +512,16 @@ h1 {
     </item>
     
     <item>
-      <title>integrating-indoorgml-with-outdoors</title>
+      <title>Integrating IndoorGML with outdoors:Automatic routing graph generation for indoor‐outdoor transitional space for seamless navigation</title>
       <link>https://tgis-lab.github.io/project/integrating-indoorgml-with-outdoors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tgis-lab.github.io/project/integrating-indoorgml-with-outdoors/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;With the fast expansion of modern cities, the complexity of urban environments has significantly increased, creating a need for assistance for seamless indoor‐outdoor navigation. To meet this need, a number of standards and methods have emerged. Among them, IndoorGML is a well‐developed standard with the focus on indoor location‐based services. This standard has already been accepted by the Open Geospatial Consortium (OGC) and is now under active development. Although some mechanisms in IndoorGML have been defined to enable integration of indoor and outdoor networks, there are still no concrete guidelines for determination of indoor‐outdoor connections. It also lacks solid scientific foundations and efficient tools to extract the connecting nodes and edges that link indoor and outdoor spaces. To address this gap, in this scientific initiative we focus on connection of indoor and outdoor spaces and aim to provide a tool to automatically construct navigation graphs of the indoor‐outdoor transitional space to support seamless integration of indoor‐outdoor navigation. We expect that the developments from this project will benefit the IndoorGML ecosystem and greatly advance the capability of IndoorGML in representing navigable space and in supporting location-based services.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Objectives:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In this scientific initiative, we focus on modeling of indoor-outdoor transitional space, and aim to develop a tool which can automatically construct navigation graphs for indoor-outdoor transitional space to seamlessly link the outdoor road networks (from OpenStreetMap) and indoor networks (from IndoorGML). To this end, we will address the following two research objectives:&lt;/p&gt;
+&lt;p&gt;In this scientific initiative, we focus on modeling of indoor-outdoor transitional space, and aim to develop a tool which can automatically construct navigation graphs for indoor-outdoor transitional space to seamlessly link the outdoor and indoor enviroment. To this end, we will address the following two research objectives:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Research objective 1&lt;/strong&gt;: Development of voxel models for indoor-outdoor transitional space. We will explore the use of voxel‐based modelling to capture the space between indoor and outdoor environments (e.g., parking slots, stairs, and sidewalks). Voxels will be enriched with semantics and segmented to distinguish between navigable space and non-navigable space.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Research objective 2:&lt;/strong&gt; Development of a tool for automatic routing graph generation for indoor-outdoor transitional space. The intended tool will: 1) generate voxel models from point clouds of building entrances and their surrounding environments; (2) identify navigable space and perform space division based on the characteristics of agents (e.g., pedestrians, wheelchairs, and vehicles); 3) build navigation graphs that link OpenStreetMap road networks and IndoorGML networks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research objective 2:&lt;/strong&gt; Development of a tool for automatic routing graph generation for indoor-outdoor transitional space. The intended tool will: 1) generate voxel models from point clouds of building entrances and their surrounding environments; (2) identify navigable space and perform space division; 3) build navigation graphs that link the outdoor and indoor enviroment.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborating Team&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;PI Zhiyong Wang&lt;/strong&gt; (ISPRS WG IV/8), South China University of Technology, &lt;a href=&#34;mailto:zwang1984@scut.edu.cn&#34;&gt;zwang1984@scut.edu.cn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Co-PI&lt;/p&gt;
