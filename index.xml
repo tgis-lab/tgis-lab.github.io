@@ -546,9 +546,8 @@ h1 {
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Main Output:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[1]A journal paper written based on the above results, &lt;a href=&#34;https://isprs-annals.copernicus.org/articles/X-1-W1-2023/487/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://isprs-annals.copernicus.org/articles/X-1-W1-2023/487/2023/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2]A data repository containing the datasets used in this project, &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.25323826&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.6084/m9.figshare.25323826&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[3]A GitHub repository containing the source codes of the python tool developed from this project, &lt;a href=&#34;https://github.com/tgis-lab/geopcd2indoorgml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/tgis-lab/geopcd2indoorgml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1]A data repository containing the datasets used in this project, &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.25323826&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.6084/m9.figshare.25323826&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2]A GitHub repository containing the source codes of the python tool developed from this project, &lt;a href=&#34;https://github.com/tgis-lab/geopcd2indoorgml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/tgis-lab/geopcd2indoorgml&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collaborating Team&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;PI Zhiyong Wang&lt;/strong&gt; (ISPRS WG IV/8), South China University of Technology, &lt;a href=&#34;mailto:zwang1984@scut.edu.cn&#34;&gt;zwang1984@scut.edu.cn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Co-PI&lt;/p&gt;
@@ -558,7 +557,7 @@ h1 {
 &lt;p&gt;Sisi Zlatanova (ISPRS TC IV, OGC IndoorGML), UNSW, &lt;a href=&#34;mailto:s.zlatanova@unsw.edu.au&#34;&gt;s.zlatanova@unsw.edu.au&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ki-Joune Li (OGC IndoorGML), Pusan National University, &lt;a href=&#34;mailto:lik@pnu.edu&#34;&gt;lik@pnu.edu&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related Publications:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., &amp;amp; Li, K. J. (2023). Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation. &lt;em&gt;ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;, 487-492.&lt;/p&gt;
+&lt;p&gt;Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., &amp;amp; Li, K. J. (2023). &lt;a href=&#34;https://isprs-annals.copernicus.org/articles/X-1-W1-2023/487/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation&lt;/a&gt;. &lt;em&gt;ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;, 487-492.&lt;/p&gt;
 &lt;p&gt;
 
 
