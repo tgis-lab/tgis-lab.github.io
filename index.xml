@@ -466,51 +466,68 @@ h1 {
         &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt;
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/yangJinYan.jpg&#34; alt=&#34;yangJinYan&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Lan Hu.jpg&#34; alt=&#34;hulang&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
-            &lt;strong&gt;Jinyan Yang&lt;/strong&gt;
-            &lt;strong&gt;Undergraduate&lt;/strong&gt;
-            &lt;strong&gt;Research Interests:&lt;/strong&gt; shared e-bike and built environment
+            &lt;strong&gt;Lang Hu&lt;/strong&gt;
+            &lt;strong&gt;Postgraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; 3D spatio-temporal foundation；Path planning
         &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt; 
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/kongSiKai.jpg&#34; alt=&#34;kongSiKai&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Zhendong Wu&#34; alt=&#34;wuzhendong&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
-            &lt;strong&gt;Sikai Kong&lt;/strong&gt;
-            &lt;strong&gt;Undergraduate&lt;/strong&gt;
-            &lt;strong&gt;Research Interests:&lt;/strong&gt; Traffic monitoring based on computer vision
+            &lt;strong&gt;Zhendong Wu&lt;/strong&gt;
+            &lt;strong&gt;Postgraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; UAV path planning; Convolutional Neural Network
         &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt;
         &lt;img src=&#34;https://tgis-lab.github.io/team_images/xiangZiWei.jpg&#34; alt=&#34;xiangZiWei&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
             &lt;strong&gt;Ziwei Xiang&lt;/strong&gt;
-            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Postgraduate&lt;/strong&gt;
             &lt;strong&gt;Research Interests:&lt;/strong&gt;  Analysis of the causes of traffic accidents; Path planning; IndoorGML
         &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt;
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/gongTaiLin.jpg&#34; alt=&#34;gongTaiLin&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Zhuojian Li.jpg&#34; alt=&#34;lizhuojian&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
-            &lt;strong&gt;Tailin Gong&lt;/strong&gt;
+            &lt;strong&gt;Zhuojian Li&lt;/strong&gt;
             &lt;strong&gt;Undergraduate&lt;/strong&gt;
-            &lt;strong&gt;Research Interests:&lt;/strong&gt; Simultaneous Localization and Mapping, path planning
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Intelligent scheduling; Path planning
         &lt;/div&gt;
     &lt;/div&gt;
       &lt;div class=&#34;teamMember&#34;&gt;
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/chenNianRu.jpg&#34; alt=&#34;chenNianRu&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Chenzong Liu.jpg&#34; alt=&#34;chenzongliu&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
-            &lt;strong&gt;Nianru Chen&lt;/strong&gt;
+            &lt;strong&gt;Chenzhong Liu&lt;/strong&gt;
             &lt;strong&gt;Undergraduate&lt;/strong&gt;
-            &lt;strong&gt;Research Interests:&lt;/strong&gt; Indoor and outdoor integrated navigation
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Intelligent transportation systems and urban data analysis
+        &lt;/div&gt;
+    &lt;/div&gt;
+      &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Chenzong Liu.jpg&#34; alt=&#34;chenzongliu&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Chenzhong Liu&lt;/strong&gt;
+            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Intelligent transportation systems and urban data analysis
         &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt;
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/wangYiPing.jpg&#34; alt=&#34;wangYiPing&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Jianing Zhao.jpg&#34; alt=&#34;zhaojianing&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
-            &lt;strong&gt;Yiping Wang&lt;/strong&gt;
+            &lt;strong&gt;Jianing Zhao&lt;/strong&gt;
             &lt;strong&gt;Undergraduate&lt;/strong&gt;
-            &lt;strong&gt;Research Interests:&lt;/strong&gt;  UVA path planning
+            &lt;strong&gt;Research Interests:&lt;/strong&gt;  Path planning; Data visualization processing; Intelligent transportation research
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Yichen Wu.jpg&#34; alt=&#34;wuyichen&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Yichen Wu&lt;/strong&gt;
+            &lt;strong&gt;Undergraduate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt;  3D modeling and processing in architecture
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
