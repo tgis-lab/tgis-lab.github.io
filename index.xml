@@ -466,7 +466,7 @@ h1 {
         &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt;
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Lan Hu.jpg&#34; alt=&#34;hulang&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Lan Hu.png&#34; alt=&#34;hulang&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
             &lt;strong&gt;Lang Hu&lt;/strong&gt;
             &lt;strong&gt;Postgraduate&lt;/strong&gt;
@@ -474,7 +474,7 @@ h1 {
         &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt; 
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Zhendong Wu&#34; alt=&#34;wuzhendong&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Zhendong Wu.jpg&#34; alt=&#34;wuzhendong&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
             &lt;strong&gt;Zhendong Wu&lt;/strong&gt;
             &lt;strong&gt;Postgraduate&lt;/strong&gt;
@@ -498,15 +498,7 @@ h1 {
         &lt;/div&gt;
     &lt;/div&gt;
       &lt;div class=&#34;teamMember&#34;&gt;
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Chenzong Liu.jpg&#34; alt=&#34;chenzongliu&#34; class=&#34;img-zoom&#34;&gt;
-        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
-            &lt;strong&gt;Chenzhong Liu&lt;/strong&gt;
-            &lt;strong&gt;Undergraduate&lt;/strong&gt;
-            &lt;strong&gt;Research Interests:&lt;/strong&gt; Intelligent transportation systems and urban data analysis
-        &lt;/div&gt;
-    &lt;/div&gt;
-      &lt;div class=&#34;teamMember&#34;&gt;
-        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Chenzong Liu.jpg&#34; alt=&#34;chenzongliu&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Chengzong Liu.jpg&#34; alt=&#34;chenzongliu&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
             &lt;strong&gt;Chenzhong Liu&lt;/strong&gt;
             &lt;strong&gt;Undergraduate&lt;/strong&gt;
@@ -520,7 +512,6 @@ h1 {
             &lt;strong&gt;Undergraduate&lt;/strong&gt;
             &lt;strong&gt;Research Interests:&lt;/strong&gt;  Path planning; Data visualization processing; Intelligent transportation research
         &lt;/div&gt;
-    &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt;
         &lt;img src=&#34;https://tgis-lab.github.io/team_images/Yichen Wu.jpg&#34; alt=&#34;wuyichen&#34; class=&#34;img-zoom&#34;&gt;
