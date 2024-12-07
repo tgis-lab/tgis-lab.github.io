@@ -442,6 +442,14 @@ h1 {
         &lt;/div&gt;
     &lt;/div&gt;
      &lt;div class=&#34;teamMember&#34;&gt;
+        &lt;img src=&#34;https://tgis-lab.github.io/team_images/Weidong Xie.jpg&#34; alt=&#34;weidongxie&#34; class=&#34;img-zoom&#34;&gt;
+        &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
+            &lt;strong&gt;Weidong Xie&lt;/strong&gt;
+            &lt;strong&gt;PhD candidate&lt;/strong&gt;
+            &lt;strong&gt;Research Interests:&lt;/strong&gt; Machine learning; Path planning; Navigation
+        &lt;/div&gt;
+    &lt;/div&gt;
+     &lt;div class=&#34;teamMember&#34;&gt;
         &lt;img src=&#34;https://tgis-lab.github.io/team_images/linZhaoYu.jpg&#34; alt=&#34;linZhaoYu&#34; class=&#34;img-zoom&#34;&gt;
         &lt;div style=&#34;margin-top: 15px; text-align: left;&#34;&gt;
             &lt;strong&gt;Zhaoyu Lin&lt;/strong&gt;
